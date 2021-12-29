@@ -2,7 +2,7 @@
 
 Generate a grid of K.K. Slider album arts for usage as a desktop wallpaper!
 
-![Desktop, 1080p](https://github.com/patthomasrick/K.K.-Slider-Album-Art-Wallpaper/releases/download/1.0/kk-custom-1080p.png)
+![Desktop, 1080p](https://github.com/patthomasrick/K.K.-Slider-Album-Art-Wallpaper/blob/main/kk-desktop-1080p.png?raw=true)
 
 See [releases](https://github.com/patthomasrick/K.K.-Slider-Album-Art-Wallpaper/releases) for 1080p, 4k versions for desktop and mobile.
 
